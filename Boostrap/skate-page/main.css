@@ -1,0 +1,52 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark{
+    background-color: #cccccccc;
+    padding: 2rem;
+}
+
+.coolStuffWrapper{
+    margin-top: 10px;
+}
+
+button.coolStuffBtn{
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;   
+}
+
+.btnCenter{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.fa-facebook-square{
+    color: #4267b2;
+}
+
+.fa-google-plus-square{
+    color: orangered
+}
+
+.fa-instagram{
+    color: white;
+}
+
+.fab{
+    margin: 10px;
+}
+
+.socialWrapper{
+    margin: auto;
+}
