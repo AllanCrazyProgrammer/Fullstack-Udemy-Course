@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+}
+
+.cirlce {
+  background-color: darkred;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  -webkit-box-shadow: 0 0 8px black;
+          box-shadow: 0 0 8px black;
+}
+/*# sourceMappingURL=style.css.map */
